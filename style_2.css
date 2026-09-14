@@ -1,0 +1,22 @@
+body{
+  font-size:28px;
+  display:flex;
+  flex-direction:column; /*other options are row, row-reverse, column-reverse*/
+  gap: 20px;
+}
+
+h1{
+  text-align:center;
+  border:dotted;
+}
+
+img{
+  width: 250px;
+  border: solid;
+}
+#animals{
+  display:flex;
+  justify-content:center; /* other options are flex-start, flex-end, space-between, space-end, space-evenly*/
+  flex-wrap:wrap; /*other options are nowrap, wrap-reverse*/
+  flex-basis: ;
+}
