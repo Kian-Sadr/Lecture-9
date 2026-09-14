@@ -1,0 +1,18 @@
+body{
+  font-size:28px;
+}
+
+h1{
+  border: 3px dashed green;
+}
+
+img{
+  border: solid;
+}
+
+p{
+  border-style:groove;
+  border-color: navy;
+  border-width: 10px;
+  border-radius: 10px;
+}
