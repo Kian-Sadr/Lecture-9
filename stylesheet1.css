@@ -1,1 +1,11 @@
+body{
+  font-size:28px;
+}
 
+h1{
+  border: 3px dashed green;
+}
+
+img{
+  border: solid;
+}
